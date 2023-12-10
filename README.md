@@ -1,7 +1,7 @@
 # Data-Analytics---Excel
 Excel Data Analytics Project - Garment Store Sales Report (2022)
 
-**This project is to solve the following questions that is going to find out from the dashboard - **
+**This project is to solve the following questions that is going to find out from the dashboard -**
 
 1. Compare the sales and orders using single chart.
 2. Which month got the highest sales and orders?
@@ -12,7 +12,7 @@ Excel Data Analytics Project - Garment Store Sales Report (2022)
 7. Which channel is contributing to maximum sales?
 8. Highest selling category?
 
-**These are the insights that I found after the sales report - **
+**These are the insights that I found after the sales report -**
 
 1. Women are more likely to buy compared to men (~65%)
 2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
@@ -20,7 +20,7 @@ Excel Data Analytics Project - Garment Store Sales Report (2022)
 4. Amazomn, Flipkart and Myntra channels are contributing maximum (~80%)
 
 
-**Final Conclusion To Improve Vrinda Store Sales - **
+**Final Conclusion To Improve Vrinda Store Sales -**
 
 **Target women customers of age group (30-49 years) lives in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.**
 
