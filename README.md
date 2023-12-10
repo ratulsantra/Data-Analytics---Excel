@@ -1,6 +1,11 @@
 # Data-Analytics---Excel
 Excel Data Analytics Project - Garment Store Sales Report (2022)
 
+**Dashboard of the Sales Report (2022)**
+
+![Dashboard(Garment Store)](https://github.com/ratulsantra/Data-Analytics---Excel/assets/63894084/7014e78f-0f98-4f3f-a351-a5cbc82b5f8a)
+
+
 **This project is to solve the following questions that is going to find out from the dashboard -**
 
 1. Compare the sales and orders using single chart.
